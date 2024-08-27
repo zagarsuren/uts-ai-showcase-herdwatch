@@ -5,7 +5,7 @@
 * A local computer or a compatible edge device
 * Python 3.9
 * NVIDIA GPU (optional and use PyTorch model)
-* MAC GPU (Use Core ML model)
+* MAC GPU (optional and use Core ML model)
 
 ### Installation
 
@@ -46,10 +46,6 @@
         pip install -r requirements.txt
     ```
     This shall install all the required libraries. If version issues occur - remove version numbers.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
