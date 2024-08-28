@@ -1,11 +1,7 @@
 <!-- GETTING STARTED -->
 # UTS AI Showcase 2024 - HerdWatch Project
 ### About 
-Livestock management is a crucial aspect of agriculture, requiring efficient methods for counting and monitoring animal behaviour. Traditional methods rely heavily on manual labour and can be time-consuming, costly, and prone to errors. In recent years, computer vision techniques have emerged as a promising solution to automate these processes. This project aims to develop a system for livestock counting and behaviour detection using computer vision algorithms. The proposed system utilises state-of-the-art deep learning techniques to process images or video footage captured from surveillance cameras installed in livestock facilities or drones. In this report, we developed a cattle behaviour detection system and compared the results using Faster-RCNN, YOLOv5, YOLOv8 nano and YOLOv8 medium object detection models.
-
-
-### Demo Video:
-<iframe width="840" height="540" src="https://www.youtube.com/embed/E_jsOMbI-yE?si=AgPci3GnaYb6quON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Livestock management is a crucial aspect of agriculture, requiring efficient methods for counting and monitoring animal behaviour. Traditional methods rely heavily on manual labour and can be time-consuming, costly, and prone to errors. In recent years, computer vision techniques have emerged as a promising solution to automate these processes. This project aims to develop a system for livestock counting and behaviour detection using computer vision algorithms. The proposed system utilises state-of-the-art deep learning techniques to process images or video footage captured from surveillance cameras installed in livestock facilities or drones. In this system, we used YOLOv8 medium model to detect and count cattle.
 
 ### Prerequisites
 * A local computer or a compatible edge device
