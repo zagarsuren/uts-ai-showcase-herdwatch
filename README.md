@@ -27,7 +27,7 @@
     ```sh
     herdwatchenv\Scripts\activate
     ```
-4. Once Virtual Environment is active, your terminal will look like the following:
+4. Once Virtual Environment is active, the terminal will look like the following:
 
     Linux/MacOS:
     ```sh
@@ -43,14 +43,14 @@
     ```
 6. Install the requirements now (make sure venv is activated):
     ```sh
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
     This shall install all the required libraries. If version issues occur - remove version numbers.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Follow the steps to start the simple web application after the libraries are installed:
+Follow the steps to start the application after the libraries are installed:
 
 1. Go to the directory `mysite`
     ```sh
